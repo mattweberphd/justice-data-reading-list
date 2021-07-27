@@ -12,7 +12,8 @@ An extremely informal curriculum one might be interested in for the purposes of 
 ## Data science
 
 * [Simple rules for complex decisions](https://arxiv.org/abs/1702.04690), Jongbin Jung et al. (2017)
-* [Estimating the success of re-identifications in incomplete datasets using generative models](https://www.nature.com/articles/s41467-019-10933-3/), Rocher et al. (2019)
+* [Estimating the success of re-identifications in incomplete datasets using generative models](https://www.nature.com/articles/s41467-019-10933-3/), Luc Rocher et al. (2019)
+* [On the Dangers of Stochastic Parrots: Can Language Models Be Too Big? 🦜](https://dl.acm.org/doi/10.1145/3442188.3445922), Emily Bender et al. (2021)
 
 ## Data ethics
 
